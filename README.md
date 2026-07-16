@@ -1,20 +1,20 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:6A5ACD&height=200&section=header&text=Aayush%20Deshpande&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Forward%20Deployed%20Engineer%20%7C%20AI%2FML%20Builder&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:4B0082,100:0d0015&height=180&text=Aayush%20Deshpande&fontSize=42&fontColor=B983FF&fontAlignY=45&desc=Forward%20Deployed%20Engineer%20%7C%20AI%2FML%20Builder&descAlignY=70&descSize=16&descColor=8A7CA8)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=650&lines=PRISM+%E2%80%94+Lunar+Rover+RL+Simulation;FedNeMo+%E2%80%94+Federated+Fine-Tuning+on+Nemotron;Leon+%E2%80%94+Legal+RAG+Agent;AutoML+%E2%80%94+End-to-End+ML+Pipeline" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=PRISM+%E2%80%94+Lunar+Rover+RL+Simulation;FedNeMo+%E2%80%94+Federated+Fine-Tuning+on+Nemotron;Leon+%E2%80%94+Legal+RAG+Agent;AutoML+%E2%80%94+End-to-End+ML+Pipeline" alt="Typing SVG" />
 
 <br>
 
-![](https://img.shields.io/badge/status-shipping-00C7B7?style=for-the-badge)
-![](https://img.shields.io/badge/focus-AI%2FML%20%7C%20FDE-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/currently-BSERC%20%F0%9F%9B%B0%EF%B8%8F-orange?style=for-the-badge)
+![](https://img.shields.io/badge/status-shipping-4B0082?style=for-the-badge&labelColor=0d0015)
+![](https://img.shields.io/badge/focus-AI%2FML%20%7C%20FDE-B983FF?style=for-the-badge&labelColor=0d0015)
+![](https://img.shields.io/badge/currently-BSERC%20%F0%9F%9B%B0%EF%B8%8F-6A0DAD?style=for-the-badge&labelColor=0d0015)
 
 </div>
 
 <br>
 
-## 💫 About Me
+## ▸ About Me
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ mode     : shipping
 
 <br>
 
-## 🧪 Where I've Actually Worked
+## ▸ Where I've Actually Worked
 
 <div align="center">
 
@@ -58,7 +58,7 @@ mode     : shipping
 
 <br>
 
-## 🛰️ What That Work Turned Into
+## ▸ Techniques Deployed
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Feed it any dataset, it does the rest — preprocessing, feature selection, mult
 
 <br>
 
-## 🎹 Off Duty
+## ▸ Off Duty
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Feed it any dataset, it does the rest — preprocessing, feature selection, mult
 
 <br>
 
-## 🐍 Contribution Snake
+## ▸ Contribution Snake
 
 <div align="center">
 
@@ -121,18 +121,18 @@ Feed it any dataset, it does the rest — preprocessing, feature selection, mult
 
 <br>
 
-## 🌐 Socials
+## ▸ Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushdeshpande-)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushdeshpande532@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=B983FF&labelColor=0d0015)](https://linkedin.com/in/aayushdeshpande-)
+[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=B983FF&labelColor=0d0015)](mailto:aayushdeshpande532@gmail.com)
 
 </div>
 
 <br>
 
-## 💻 Tech Stack
+## ▸ Tech Stack
 
 <div align="center">
 
@@ -140,31 +140,31 @@ Feed it any dataset, it does the rest — preprocessing, feature selection, mult
 
 <br><br>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-4B0082?style=flat&logo=streamlit&logoColor=B983FF&labelColor=0d0015) ![Supabase](https://img.shields.io/badge/Supabase-4B0082?style=flat&logo=supabase&logoColor=B983FF&labelColor=0d0015) ![Canva](https://img.shields.io/badge/Canva-4B0082?style=flat&logo=Canva&logoColor=B983FF&labelColor=0d0015) ![Matplotlib](https://img.shields.io/badge/Matplotlib-4B0082?style=flat&logo=Matplotlib&logoColor=B983FF&labelColor=0d0015) ![mlflow](https://img.shields.io/badge/mlflow-4B0082?style=flat&logo=numpy&logoColor=B983FF&labelColor=0d0015) ![NumPy](https://img.shields.io/badge/numpy-4B0082?style=flat&logo=numpy&logoColor=B983FF&labelColor=0d0015) ![Pandas](https://img.shields.io/badge/pandas-4B0082?style=flat&logo=pandas&logoColor=B983FF&labelColor=0d0015) ![GitLab](https://img.shields.io/badge/gitlab-4B0082?style=flat&logo=gitlab&logoColor=B983FF&labelColor=0d0015) ![Arduino](https://img.shields.io/badge/-Arduino-4B0082?style=flat&logo=Arduino&logoColor=B983FF&labelColor=0d0015)
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## ▸ GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Aayush-Deshpande&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Aayush-Deshpande&theme=radical&hide_border=true&bg_color=0d0015&title_color=B983FF&text_color=8A7CA8&icon_color=6A0DAD&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Aayush-Deshpande&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Aayush-Deshpande&theme=radical&hide_border=true&background=0d0015&stroke=4B0082&ring=B983FF&fire=B983FF&currStreakLabel=B983FF)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Deshpande&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Deshpande&theme=radical&hide_border=true&bg_color=0d0015&title_color=B983FF&text_color=8A7CA8&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 <br>
 
-## 🏆 Trophy Case
+## ▸ Trophy Case
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Aayush-Deshpande&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Aayush-Deshpande&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4)
 
 </div>
 
